@@ -2,7 +2,7 @@
 
 ## I'm a Student and a Developer!!
 
-- 🔭 I just launched my first [Discord Bot!][https://discord.com/api/oauth2/authorize?client_id=914524610307948584&permissions=1127931701878&scope=bot%20applications.commands]!
+- 🔭 I just launched my first [Discord Bot!](https://discord.com/api/oauth2/authorize?client_id=914524610307948584&permissions=1127931701878&scope=bot%20applications.commands)!
 - 🌱 I’m currently learning javascript
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
