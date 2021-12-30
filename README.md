@@ -19,4 +19,4 @@
 <br />
 <br />
 </details>
-[website]: https://discord.com/api/oauth2/authorize?client_id=914524610307948584&permissions=1127931701878&scope=bot%20applications.commands
+[botlink]: https://discord.com/api/oauth2/authorize?client_id=914524610307948584&permissions=1127931701878&scope=bot%20applications.commands
