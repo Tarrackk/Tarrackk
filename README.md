@@ -6,7 +6,7 @@
 - 🥉 Javascript beginner
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play football and hangout with the homies
+- ⚡ Fun fact: Joe
 
 ### Connect with me:
 - Discord: Thugi#4123
@@ -16,3 +16,4 @@
 
 ### Languages I use:
 - Javascript
+- C# (C Sharp)
