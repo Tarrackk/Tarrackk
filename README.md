@@ -1,4 +1,4 @@
-### Hi there, I'm Rawad - aka Thugi👋 
+### Hi there, I'm Rawad - aka Caverick👋 
 
 ## I'm a Student and a Developer!!
 
@@ -8,9 +8,7 @@
 
 ### Connect with me:
 - Discord: Thugi#4123
-- Growtopia : Ta7are
 <br />
-
 ### Languages I use:
 - Javascript
 - C# (C Sharp)
