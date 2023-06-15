@@ -1,4 +1,4 @@
-### Hi ther👋 
+### Hi there👋 
 
 ## I'm a Student and a Developer
 
